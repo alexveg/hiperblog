@@ -8,5 +8,6 @@ Del curso [Profesional de Git y GitHub](https://platzi.com/clases/git-github/ "P
 * El verdadero amor por las buenas prácticas
 * Creado por el increible Platzi Team
 * Incluye ejemplos en Windows, Linux y Mac
+* Disponible para todas las edades
 
 Gracias por pasarte a curiosear.
